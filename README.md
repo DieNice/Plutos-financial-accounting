@@ -2,7 +2,7 @@
 
 # Subject area
 
-The subject area was compiled on the basis of courses on the basics of financial accounting of Coca-Cola
+The subject area was compiled on the basis of courses on the basics of financial accounting of Coca-Cola (https://hub.youthempowered.ru/learning)
 
 Below are the basic accounting sheets for maintaining a personal budget and an organization's budget
 ## Personal budget
